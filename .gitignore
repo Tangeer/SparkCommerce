@@ -1,0 +1,3 @@
+# Project exclude paths
+/commons/target/
+/mock/target/
